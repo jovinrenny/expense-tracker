@@ -1,0 +1,53 @@
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.title {
+    margin-top: 6rem;
+}
+
+table {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.title h1 {
+    font-weight: 400;
+}
+
+.title span {
+    color: green;
+}
+
+.title {
+  text-align: center;
+}
+
+.input-field span{
+   width: 100px;
+   display: inline-block;
+   margin-top: 10px;
+   text-align: left;
+}
+
+.input-container {
+    text-align: center;
+    margin-top: 15px;
+}
+
+#expense-btn {
+    margin-top: 20px;
+    padding: 10px 10px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+.close-btn {
+    margin-left: 1rem;
+}
+
+
